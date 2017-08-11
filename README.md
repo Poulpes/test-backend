@@ -32,6 +32,6 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 
 * Clone ce repo
 * Commit et push le plus régulièrement possible
-* Tu as 96h pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout :) L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
+* Tu as 96h pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
 
 
