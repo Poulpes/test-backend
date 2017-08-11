@@ -4,7 +4,7 @@
 
 Il s’agit ici de développer un outil simple (type Trello) qui permettra à l’utilisateur de gérer ses projets et la liste des tâches relatives à ces projets.
 
-#### User stories à implémenter
+### User stories à implémenter
 
 * Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
 * Je dois pouvoir create/update/delete des projets ;
