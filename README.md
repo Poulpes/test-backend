@@ -26,14 +26,15 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 * L’application doit fonctionner entièrement en mode “single page” avec des requêtes AJAX (sans rechargement de la page) ;
 * Il est nécessaire de gérer à la fois l’authentication ET l’authorization : l’utilisateur ne doit pouvoir accéder qu’à ses propres projets.
 * L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise) et [Pundit](https://github.com/elabs/pundit)) est recommandée.
-* Même s’il s’agit d’un test de backend, toute attention portée à l’UX de l’application sera appréciée.
+* Même s’il s’agit d’un test de backend, toute attention portée à l’UX de l’application sera appréciée 🙂
 
 ### Workflow
 
-Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.3.3 / Simple Form et des gems de debug
+Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.3.3 / Simple Form / des gems de debug.
 
-* Clone ce repo
-* Commit et push le plus régulièrement possible
+* Clone ce repo.
+* Commit et push le plus régulièrement possible.
 * Tu as 96h pour réaliser ce test. Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
+* Bon courage 🚀
 
 
