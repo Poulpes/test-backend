@@ -30,7 +30,7 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 
 ### Workflow
 
-Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.3.3 / Simple Form / des gems de debug.
+Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.3.3 / Postgresql / Simple Form / des gems de debug.
 
 * Clone ce repo.
 * Commit et push le plus régulièrement possible.
