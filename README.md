@@ -4,7 +4,7 @@
 
 Il s’agit ici de développer un outil simple (type Trello) qui permettra à l’utilisateur de gérer ses projets et la liste des tâches relatives à ces projets.
 
-### User stories à implémenter
+### User stories
 
 * Je dois pouvoir sign-in/sign-up avec un email/mot de passe ou via Facebook ;
 * Je dois pouvoir create/update/delete des projets ;
@@ -29,6 +29,8 @@ Il s’agit ici de développer un outil simple (type Trello) qui permettra à l�
 * Même s’il s’agit d’un test de backend, toute attention portée à l’UX de l’application sera appréciée.
 
 ### Workflow
+
+Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.3.3 / Simple Form et des gems de debug
 
 * Clone ce repo
 * Commit et push le plus régulièrement possible
