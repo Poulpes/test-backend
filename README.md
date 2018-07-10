@@ -21,16 +21,15 @@ Il s’agit ici de concevoir/designer (Sketch ou Figma) puis développer un outi
   * Côté serveur: Ruby on Rails, Postgresql ;
 * Les validations doivent se faire aussi bien côté client que côté serveur ;
 * L’application doit fonctionner entièrement en mode “single page” avec des requêtes AJAX (sans rechargement de la page) ;
-* Il est nécessaire de gérer à la fois l’authentication ET l’authorization : l’utilisateur ne doit pouvoir accéder qu’à ses propres projets.
-* L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise) et [Pundit](https://github.com/elabs/pundit)) est recommandée.
+* L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise) est recommandée.
 
 ### Workflow
 
-Le test est volontairement assez dense, on en a conscience ! A toit de faire un certain nombre d'arbitrages.
+Le test est volontairement assez dense, on en a conscience ! A toi de faire un certain nombre d'arbitrages.
 
 Néanmoins, organise bien ton temps entre la conception/design et la partie dev et essaie de coller aux user stories. On préfère un rendu qui couvre assez bien l'ensemble des user stories avec du code soigné et une UX efficace qu'un rendu avec juste un sign-up incroyable 😉
 
-* Réalise tes maquettes/wireframes sur Sketch
+* Réalise tes maquettes/wireframes sur Sketch ou Figma
 * Clone ce repo (tu y trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.4.2 / Postgresql / Simple Form / des gems de debug.)
 * Commit et push le plus régulièrement possible.
 * Idéalement, pense à mettre en production sur Heroku ou autre Hosting Service de ton choix
