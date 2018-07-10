@@ -29,8 +29,8 @@ Le test est volontairement assez dense, on en a conscience ! A toi de faire un c
 
 Néanmoins, organise bien ton temps entre la conception/design et la partie dev et essaie de coller aux user stories. On préfère un rendu qui couvre assez bien l'ensemble des user stories avec du code soigné et une UX efficace qu'un rendu avec juste un sign-up incroyable 😉
 
-* Réalise tes maquettes/wireframes sur Sketch ou Figma
-* Clone ce repo (tu y trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.4.2 / Postgresql / Simple Form / des gems de debug.)
+* Réalise tes maquettes/wireframes sur Sketch ou Figma.
+* Clone ce repo (tu y trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 2.4.2 / Postgresql / Simple Form / des gems de debug).
 * Commit et push le plus régulièrement possible.
 * Idéalement, pense à mettre en production sur Heroku ou autre Hosting Service de ton choix
 * Tu as 96h pour réaliser ce test(conception/design + dev backend et frontend). Si tu n'as pas terminé, ce n'est pas grave du tout 😉 L'idée est juste d'évaluer la façon dont tu travailles et tu t'organises.
