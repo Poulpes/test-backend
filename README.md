@@ -15,13 +15,13 @@ Il s’agit ici de concevoir/designer (Sketch ou Figma) puis développer un outi
 
 ### Pré-requis techniques
 
-* Les maquettes sont à réaliser sur Sketch ou Figma
+* Les maquettes sont à réaliser sur Sketch ou Figma ;
 * Il doit s’agir d’une application web :
   * Côté client: Pas de contraintes particulières, Rails Asset Pipeline ou Webpack ;
   * Côté serveur: Ruby on Rails, Postgresql ;
 * Les validations doivent se faire aussi bien côté client que côté serveur ;
 * L’application doit fonctionner entièrement en mode “single page” avec des requêtes AJAX (sans rechargement de la page) ;
-* L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise) est recommandée.
+* L’utilisation de gems (notamment [Devise](https://github.com/plataformatec/devise)) est recommandée ;
 
 ### Workflow
 
