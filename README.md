@@ -30,5 +30,3 @@ Dans ce repo, tu trouveras un template minimal d'app Rails : Rails 5.1.0 / Ruby 
 * Fork ce repo.
 * Commit et push le plus régulièrement possible.
 * Bon courage 🚀
-
-
